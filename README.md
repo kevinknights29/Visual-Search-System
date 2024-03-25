@@ -1,6 +1,6 @@
 # Visual-Search-System
 
-This project builds a visual search system following the design from `Machine Learning System Design Interview` by Ali Aminian and Alex Xu.
+This project builds a visual search system following the design from [`Machine Learning System Design Interview` by Ali Aminian and Alex Xu](https://amzn.to/3Pyd1Ak).
 
 ## Checklist
 
@@ -35,3 +35,5 @@ Remove once all items have been checked.
 |      |          |
 
 ## Resources
+
+- [`Machine Learning System Design Interview` by Ali Aminian and Alex Xu](https://amzn.to/3Pyd1Ak)
